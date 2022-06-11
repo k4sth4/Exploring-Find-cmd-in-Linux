@@ -94,9 +94,4 @@ find /usr/bin -type f -mmin -120
 ```markdown
 find / -type f -name "*.txt" -newermt 2022-02-13 ! -newermt 2022-02-15 2>/dev/null
 ```
-or
-```markdown
-find / -type f -iname '*txt' -newermt 2022-02-13 ! -newermt 2022-02-15 -exec grep -i thm\{ {} \; 2>/dev/null
-```
-
 
