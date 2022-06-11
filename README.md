@@ -3,7 +3,7 @@
 There are differnet type of shell commands, some commands increase our workflow. Find is one of the shell command which will be very helpful when we're dealing with large data,files and has to narrow down according to our needs.Basically it makes the enumerate process faster.
 
 
-# Usage Of Find cmd
+# Usage of Find cmd
 
 ### Enum the home dir
 ```markdown
