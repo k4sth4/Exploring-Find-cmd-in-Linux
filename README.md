@@ -31,7 +31,7 @@ find / -type d -name "*exploits*" 2>/dev/null
 ```
 
 
-## Find cmd With Size
+### Find cmd With Size
 To specify a size, you also need a suffix. c is the suffix for bytes, k for KiB’s, and M for MiB’s
 
 
@@ -52,7 +52,7 @@ find/home -type f -size -2k -name "*.txt"
 
 
 
-## Find cmd with permissions
+### Find cmd with permissions
 
 ![OnPaste 20220611-121354](https://user-images.githubusercontent.com/106917304/173176809-0421efac-8662-47d1-bef4-db573398a60e.png)
 
@@ -79,7 +79,7 @@ find /usr/bin -type f -user root -perm -u=s
 
 
 
-## Find cmd for time & days
+### Find cmd for time & days
 The words are min and time, for minutes and days, respectively.The prefixes are a, m, and c, and are used to specify when a file was last accessed, modified, or had its status changed.  
 
 
