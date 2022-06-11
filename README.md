@@ -31,7 +31,7 @@ find / -type d -name "*exploits*" 2>/dev/null
 ```
 
 
-### Find cmd With Size
+### Find cmd with Size
 To specify a size, you also need a suffix. c is the suffix for bytes, k for KiB’s, and M for MiB’s
 
 
