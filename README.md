@@ -50,7 +50,7 @@ find/home -type f -size -2k -name "*.txt"
 ```
 
 
-## Find with permission
+## Find with permissions
 
 ![OnPaste 20220611-121354](https://user-images.githubusercontent.com/106917304/173176809-0421efac-8662-47d1-bef4-db573398a60e.png)
 
