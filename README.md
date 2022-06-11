@@ -1,6 +1,6 @@
 # Exploring-Find-cmd-in-Linux
 
-There are differnet type of shell commands, some commands increase our workflow. Find is one of the shell command which will be very helpful when we're dealing with large data,files and has to narrow down according to our needs.Basically it makes the enumerate process faster.
+There are differnet type of shell commands, some commands increase our workflow, if we know them perfectly. Find is one of the shell command which is very helpful when we're dealing with large data,files and has to narrow down according to our needs. Basically it makes the enumeration process much faster.
 
 
 # Usage of Find cmd
